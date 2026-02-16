@@ -3,9 +3,9 @@
 void main() {
     int chosenNum = 7;
     if (chosenNum%2!=0) {
-        IO.println("False");
+        IO.println("The Chosen Number is Odd");
     }
     else {
-        IO.println("True");
+        IO.println("The Chosen Number is Even");
     }
 }
